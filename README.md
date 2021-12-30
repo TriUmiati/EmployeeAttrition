@@ -35,7 +35,7 @@ Data source : https://www.kaggle.com/patelprashant/employee-attrition
 * The features that will be used are standardized and oversampled before they are modeled (because the features are imbalanced).
 *	The algorithms used to build the predictive model of employee attrition in company 'X' are Logistic Regression, K-Nearest Neighbors Classifier, Decision Tree Classifier, Random Forest Classifier, XG Boost Classifier, dan Ada Boost Classifier.
 *	The metrics used to evaluate the model are Accuracy, Precision, Recall, and F-1 Score.
-*	Because we don't want a large False Negative rate, the best algorithm is chosen based on the highest value of the Recall metric (prediction: retain, actual: attrition).
+*	Because we don't want a large False Negative rate (prediction: retain, actual: attrition), the best algorithm is chosen based on the highest value of the Recall metric.
 
 ## Model Insights
 *	According to the model evaluation results, the Logistics Regression model with a Recall-Score of 0.83 is the best classification model for predicting attrition.
