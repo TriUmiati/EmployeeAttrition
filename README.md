@@ -1,5 +1,7 @@
 # Employee Attrition Prediction
 
+Employee attrition refers to the loss of employees as a result of a natural process, such as retirement, resignation, position elimination, personal health, or other similar reasons. An employer will not fill the vacancy left by a former employee due to attrition.
+
 ## Business Understanding
 *	Problem : Company 'X' has a 36.4 percent employee attrition rate, while the usual attrition rate is 10.9 percent. This is not good because a high attrition rate implies more resources for hiring and training new employees. Furthermore, it will increase the workload of the remaining workers and cause many projects to also be delayed.
 *	Goals : Reducing employee attrition at Company 'X'.
